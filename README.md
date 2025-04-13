@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadrezakardgar0&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadrezakardgar0" /> </p>
 
-- 🔭 I’m currently working on **At home to upgrade**
+- 🔭 I’m currently working on **At home to upgrade**.
 
-- 🌱 I’m currently learning **JavaScript/React/NextJs/tailwind**
+- 🌱 I’m currently learning **JavaScript/React/NextJs/tailwind**.
 
 - 👯 I’m looking to collaborate on **Remotely and on site**
 
-- 🤝 I’m looking for Exercises at Telegram [Exercises](https://t.me/ExercisesME)
+- 🤝 I’m looking for employment in Iranian and foreign companies to promote myself and the progress of that company.
 
 - 👨‍💻 All of my projects are available at [https://github.com/MohammadRezaKardgar0](https://github.com/MohammadRezaKardgar0)
 
