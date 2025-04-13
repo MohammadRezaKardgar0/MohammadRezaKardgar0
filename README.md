@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **At home to upgrade**
 
-- 🌱 I’m currently learning **Html/Css/JavaScript/React/NextJs/tailwind**
+- 🌱 I’m currently learning **JavaScript/React/NextJs/tailwind**
 
 - 👯 I’m looking to collaborate on **Remotely and on site**
 
